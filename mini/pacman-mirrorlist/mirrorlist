@@ -1,6 +1,0 @@
-##
-## Arch OS X repository mirrorlist
-##
-
-## Worldwide
-#Server = http://mirror.rackspace.com/archlinux/$repo/os/$arch
